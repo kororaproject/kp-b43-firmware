@@ -22,7 +22,7 @@ cp -r b43 %{buildroot}/lib/firmware/
 /lib/firmware/b43/*
 
 %changelog
-* Fri Apr 8 2016 Michael Donnelly <mike@donnellyonine.com> 6.30.163.46-1
+* Fri Apr 8 2016 Michael Donnelly <mike@donnellyonline.com> 6.30.163.46-1
 - Upgrade to version 6.30.163.46.
 
 * Fri Jan 2 2015 Chris Smart <csmart@kororaproject.org> 5.100.138-1
